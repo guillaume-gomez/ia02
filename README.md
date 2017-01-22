@@ -1,7 +1,7 @@
 # ia02
 
 ## Subject 
-[subject](./Projet IA02 - P13.pdf "ScreenShot")
+[read the subject](./Projet IA02 - P13.pdf "subject")
 
 ## Report 
-[report](./IA02-Rapport-Lefevre-Gomez.pdf "Report")
+[read the report](./IA02-Rapport-Lefevre-Gomez.pdf "Report")
